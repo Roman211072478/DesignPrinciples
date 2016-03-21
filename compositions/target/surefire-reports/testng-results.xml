@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CompositionTest" duration-ms="148" started-at="2016-03-17T12:21:58Z" finished-at="2016-03-17T12:21:58Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="148" started-at="2016-03-17T12:21:58Z" finished-at="2016-03-17T12:21:58Z">
+      <class name="CompositionTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:CompositionTest@5f0e7d]" name="setUpClass" is-config="true" duration-ms="24" started-at="2016-03-17T14:21:58Z" finished-at="2016-03-17T14:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:CompositionTest@5f0e7d]" name="setUpMethod" is-config="true" duration-ms="54" started-at="2016-03-17T14:21:58Z" finished-at="2016-03-17T14:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testComposition()[pri:0, instance:CompositionTest@5f0e7d]" name="testComposition" duration-ms="8" started-at="2016-03-17T14:21:58Z" finished-at="2016-03-17T14:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testComposition -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:CompositionTest@5f0e7d]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-17T14:21:58Z" finished-at="2016-03-17T14:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:CompositionTest@5f0e7d]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2016-03-17T14:21:58Z" finished-at="2016-03-17T14:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:CompositionTest@5f0e7d]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-17T14:21:58Z" finished-at="2016-03-17T14:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testCompositionPersonObject()[pri:0, instance:CompositionTest@5f0e7d]" name="testCompositionPersonObject" duration-ms="0" started-at="2016-03-17T14:21:58Z" finished-at="2016-03-17T14:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompositionPersonObject -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:CompositionTest@5f0e7d]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2016-03-17T14:21:58Z" finished-at="2016-03-17T14:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testPersonValues()[pri:0, instance:CompositionTest@5f0e7d]" name="testPersonValues" duration-ms="0" started-at="2016-03-17T14:21:58Z" finished-at="2016-03-17T14:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPersonValues -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:CompositionTest@5f0e7d]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-17T14:21:58Z" finished-at="2016-03-17T14:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:CompositionTest@5f0e7d]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-17T14:21:58Z" finished-at="2016-03-17T14:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- CompositionTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- CompositionTest -->
+</testng-results>

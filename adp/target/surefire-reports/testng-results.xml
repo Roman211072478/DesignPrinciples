@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AdpCorrectionTest" duration-ms="68" started-at="2016-03-18T20:18:19Z" finished-at="2016-03-18T20:18:19Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="68" started-at="2016-03-18T20:18:19Z" finished-at="2016-03-18T20:18:19Z">
+      <class name="AdpCorrectionTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:AdpCorrectionTest@1013985]" name="setUpClass" is-config="true" duration-ms="24" started-at="2016-03-18T22:18:19Z" finished-at="2016-03-18T22:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:AdpCorrectionTest@1013985]" name="setUpMethod" is-config="true" duration-ms="7" started-at="2016-03-18T22:18:19Z" finished-at="2016-03-18T22:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testApdCorrection()[pri:0, instance:AdpCorrectionTest@1013985]" name="testApdCorrection" duration-ms="8" started-at="2016-03-18T22:18:19Z" finished-at="2016-03-18T22:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApdCorrection -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:AdpCorrectionTest@1013985]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-18T22:18:19Z" finished-at="2016-03-18T22:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:AdpCorrectionTest@1013985]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2016-03-18T22:18:19Z" finished-at="2016-03-18T22:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testApdCorrectionMark()[pri:0, instance:AdpCorrectionTest@1013985]" name="testApdCorrectionMark" duration-ms="1" started-at="2016-03-18T22:18:19Z" finished-at="2016-03-18T22:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApdCorrectionMark -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:AdpCorrectionTest@1013985]" name="tearDownClass" is-config="true" duration-ms="1" started-at="2016-03-18T22:18:19Z" finished-at="2016-03-18T22:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:AdpCorrectionTest@1013985]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-18T22:18:19Z" finished-at="2016-03-18T22:18:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- AdpCorrectionTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- AdpCorrectionTest -->
+</testng-results>

@@ -1,0 +1,154 @@
+<html>
+<head>
+<title>TestNG:  Command line test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Command line test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>15/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Mar 17 15:24:46 CAT 2016</td>
+</tr>
+<tr><td>Total time:</td><td>0 seconds (122 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='principles.dip.DipVioationTest.testDip()'><b>testDip</b><br>Test class: principles.dip.DipVioationTest</td>
+<td></td>
+<td>0</td>
+<td>principles.dip.DipVioationTest@174f6ef</td></tr>
+<tr>
+<td title='principles.dip.DipCorrectionTest.testDipCorrection()'><b>testDipCorrection</b><br>Test class: principles.dip.DipCorrectionTest</td>
+<td></td>
+<td>0</td>
+<td>principles.dip.DipCorrectionTest@1ffccd6</td></tr>
+<tr>
+<td title='principles.isp.IspCorrrectioTest.testIspCorrection()'><b>testIspCorrection</b><br>Test class: principles.isp.IspCorrrectioTest</td>
+<td></td>
+<td>0</td>
+<td>principles.isp.IspCorrrectioTest@104a681</td></tr>
+<tr>
+<td title='principles.isp.IspViolationTest.testIspViolation()'><b>testIspViolation</b><br>Test class: principles.isp.IspViolationTest</td>
+<td></td>
+<td>0</td>
+<td>principles.isp.IspViolationTest@1a6fb3e</td></tr>
+<tr>
+<td title='principles.lsp.LspViolatioTest.testLsp()'><b>testLsp</b><br>Test class: principles.lsp.LspViolatioTest</td>
+<td></td>
+<td>0</td>
+<td>principles.lsp.LspViolatioTest@94cbe2</td></tr>
+<tr>
+<td title='principles.lsp.LspCorrectionTest.testLspCorrection()'><b>testLspCorrection</b><br>Test class: principles.lsp.LspCorrectionTest</td>
+<td></td>
+<td>0</td>
+<td>principles.lsp.LspCorrectionTest@1e5627c</td></tr>
+<tr>
+<td title='principles.ocp.OcpCorrectionTest.testOcpCorrectionDog()'><b>testOcpCorrectionDog</b><br>Test class: principles.ocp.OcpCorrectionTest</td>
+<td></td>
+<td>0</td>
+<td>principles.ocp.OcpCorrectionTest@a4daa3</td></tr>
+<tr>
+<td title='principles.ocp.OcpCorrectionTest.testOcpCorrectionnCat()'><b>testOcpCorrectionnCat</b><br>Test class: principles.ocp.OcpCorrectionTest</td>
+<td></td>
+<td>0</td>
+<td>principles.ocp.OcpCorrectionTest@a4daa3</td></tr>
+<tr>
+<td title='principles.ocp.OcpViolationTest.testOcpViolationCat()'><b>testOcpViolationCat</b><br>Test class: principles.ocp.OcpViolationTest</td>
+<td></td>
+<td>0</td>
+<td>principles.ocp.OcpViolationTest@1a6ac39</td></tr>
+<tr>
+<td title='principles.ocp.OcpViolationTest.testOcpViolationDefault()'><b>testOcpViolationDefault</b><br>Test class: principles.ocp.OcpViolationTest</td>
+<td></td>
+<td>0</td>
+<td>principles.ocp.OcpViolationTest@1a6ac39</td></tr>
+<tr>
+<td title='principles.ocp.OcpViolationTest.testOcpViolationDog()'><b>testOcpViolationDog</b><br>Test class: principles.ocp.OcpViolationTest</td>
+<td></td>
+<td>0</td>
+<td>principles.ocp.OcpViolationTest@1a6ac39</td></tr>
+<tr>
+<td title='principles.plk.PlkCorrectionTest.testPlkCorrection()'><b>testPlkCorrection</b><br>Test class: principles.plk.PlkCorrectionTest</td>
+<td></td>
+<td>0</td>
+<td>principles.plk.PlkCorrectionTest@10e130c</td></tr>
+<tr>
+<td title='principles.plk.PlkViolationTest.testPlkViolation()'><b>testPlkViolation</b><br>Test class: principles.plk.PlkViolationTest</td>
+<td></td>
+<td>0</td>
+<td>principles.plk.PlkViolationTest@d593f7</td></tr>
+<tr>
+<td title='principles.srp.correction.SrpCorrectionTest.testSrpCorrectionTest()'><b>testSrpCorrectionTest</b><br>Test class: principles.srp.correction.SrpCorrectionTest</td>
+<td></td>
+<td>0</td>
+<td>principles.srp.correction.SrpCorrectionTest@4f7537</td></tr>
+<tr>
+<td title='principles.srp.violation.SrpViolatioTest.testSrpViolation()'><b>testSrpViolation</b><br>Test class: principles.srp.violation.SrpViolatioTest</td>
+<td></td>
+<td>0</td>
+<td>principles.srp.violation.SrpViolatioTest@988dd6</td></tr>
+</table><p>
+</body>
+</html>

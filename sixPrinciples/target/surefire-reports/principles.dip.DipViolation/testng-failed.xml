@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [principles.dip.DipViolation]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="principles.dip.DipViolation">
+        <methods>
+          <include name="setUpMethod"/>
+          <include name="setUpClass"/>
+          <include name="tearDownClass"/>
+          <include name="tearDownMethod"/>
+          <include name="testDIPViolaition"/>
+        </methods>
+      </class> <!-- principles.dip.DipViolation -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [principles.dip.DipViolation] -->

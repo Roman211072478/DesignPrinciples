@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [principles.ocp.OcpViolationTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="principles.ocp.OcpViolationTest">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="setUpMethod"/>
+          <include name="tearDownClass"/>
+          <include name="testOcpViolationCat"/>
+          <include name="tearDownMethod"/>
+        </methods>
+      </class> <!-- principles.ocp.OcpViolationTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [principles.ocp.OcpViolationTest] -->

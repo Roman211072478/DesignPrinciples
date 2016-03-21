@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="122" started-at="2016-03-17T13:24:46Z" finished-at="2016-03-17T13:24:46Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="122" started-at="2016-03-17T13:24:46Z" finished-at="2016-03-17T13:24:46Z">
+      <class name="principles.plk.PlkCorrectionTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:principles.plk.PlkCorrectionTest@10e130c]" name="setUpClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:principles.plk.PlkCorrectionTest@10e130c]" name="setUpMethod" is-config="true" duration-ms="5" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testPlkCorrection()[pri:0, instance:principles.plk.PlkCorrectionTest@10e130c]" name="testPlkCorrection" duration-ms="1" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlkCorrection -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:principles.plk.PlkCorrectionTest@10e130c]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:principles.plk.PlkCorrectionTest@10e130c]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- principles.plk.PlkCorrectionTest -->
+      <class name="principles.srp.correction.SrpCorrectionTest">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:principles.srp.correction.SrpCorrectionTest@4f7537]" name="setUpMethod" is-config="true" duration-ms="4" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:principles.srp.correction.SrpCorrectionTest@4f7537]" name="setUpClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:principles.srp.correction.SrpCorrectionTest@4f7537]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testSrpCorrectionTest()[pri:0, instance:principles.srp.correction.SrpCorrectionTest@4f7537]" name="testSrpCorrectionTest" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSrpCorrectionTest -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:principles.srp.correction.SrpCorrectionTest@4f7537]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- principles.srp.correction.SrpCorrectionTest -->
+      <class name="principles.dip.DipVioationTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:principles.dip.DipVioationTest@174f6ef]" name="setUpClass" is-config="true" duration-ms="1" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:principles.dip.DipVioationTest@174f6ef]" name="setUpMethod" is-config="true" duration-ms="4" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testDip()[pri:0, instance:principles.dip.DipVioationTest@174f6ef]" name="testDip" duration-ms="1" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDip -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:principles.dip.DipVioationTest@174f6ef]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:principles.dip.DipVioationTest@174f6ef]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- principles.dip.DipVioationTest -->
+      <class name="principles.isp.IspCorrrectioTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:principles.isp.IspCorrrectioTest@104a681]" name="setUpClass" is-config="true" duration-ms="1" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:principles.isp.IspCorrrectioTest@104a681]" name="setUpMethod" is-config="true" duration-ms="4" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testIspCorrection()[pri:0, instance:principles.isp.IspCorrrectioTest@104a681]" name="testIspCorrection" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIspCorrection -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:principles.isp.IspCorrrectioTest@104a681]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:principles.isp.IspCorrrectioTest@104a681]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- principles.isp.IspCorrrectioTest -->
+      <class name="principles.isp.IspViolationTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:principles.isp.IspViolationTest@1a6fb3e]" name="setUpClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:principles.isp.IspViolationTest@1a6fb3e]" name="setUpMethod" is-config="true" duration-ms="5" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:principles.isp.IspViolationTest@1a6fb3e]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testIspViolation()[pri:0, instance:principles.isp.IspViolationTest@1a6fb3e]" name="testIspViolation" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIspViolation -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:principles.isp.IspViolationTest@1a6fb3e]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- principles.isp.IspViolationTest -->
+      <class name="principles.lsp.LspCorrectionTest">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:principles.lsp.LspCorrectionTest@1e5627c]" name="setUpMethod" is-config="true" duration-ms="4" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:principles.lsp.LspCorrectionTest@1e5627c]" name="setUpClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="testLspCorrection()[pri:0, instance:principles.lsp.LspCorrectionTest@1e5627c]" name="testLspCorrection" duration-ms="1" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLspCorrection -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:principles.lsp.LspCorrectionTest@1e5627c]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:principles.lsp.LspCorrectionTest@1e5627c]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- principles.lsp.LspCorrectionTest -->
+      <class name="principles.ocp.OcpCorrectionTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:principles.ocp.OcpCorrectionTest@a4daa3]" name="setUpClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="testOcpCorrectionDog()[pri:0, instance:principles.ocp.OcpCorrectionTest@a4daa3]" name="testOcpCorrectionDog" duration-ms="1" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOcpCorrectionDog -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:principles.ocp.OcpCorrectionTest@a4daa3]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:principles.ocp.OcpCorrectionTest@a4daa3]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:principles.ocp.OcpCorrectionTest@a4daa3]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:principles.ocp.OcpCorrectionTest@a4daa3]" name="tearDownClass" is-config="true" duration-ms="1" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:principles.ocp.OcpCorrectionTest@a4daa3]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testOcpCorrectionnCat()[pri:0, instance:principles.ocp.OcpCorrectionTest@a4daa3]" name="testOcpCorrectionnCat" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOcpCorrectionnCat -->
+      </class> <!-- principles.ocp.OcpCorrectionTest -->
+      <class name="principles.lsp.LspViolatioTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:principles.lsp.LspViolatioTest@94cbe2]" name="setUpClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:principles.lsp.LspViolatioTest@94cbe2]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testLsp()[pri:0, instance:principles.lsp.LspViolatioTest@94cbe2]" name="testLsp" duration-ms="1" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLsp -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:principles.lsp.LspViolatioTest@94cbe2]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:principles.lsp.LspViolatioTest@94cbe2]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- principles.lsp.LspViolatioTest -->
+      <class name="principles.ocp.OcpViolationTest">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:principles.ocp.OcpViolationTest@1a6ac39]" name="setUpMethod" is-config="true" duration-ms="2" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:principles.ocp.OcpViolationTest@1a6ac39]" name="setUpClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="testOcpViolationCat()[pri:0, instance:principles.ocp.OcpViolationTest@1a6ac39]" name="testOcpViolationCat" duration-ms="1" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOcpViolationCat -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:principles.ocp.OcpViolationTest@1a6ac39]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:principles.ocp.OcpViolationTest@1a6ac39]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:principles.ocp.OcpViolationTest@1a6ac39]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testOcpViolationDefault()[pri:0, instance:principles.ocp.OcpViolationTest@1a6ac39]" name="testOcpViolationDefault" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOcpViolationDefault -->
+        <test-method status="PASS" signature="testOcpViolationDog()[pri:0, instance:principles.ocp.OcpViolationTest@1a6ac39]" name="testOcpViolationDog" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOcpViolationDog -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:principles.ocp.OcpViolationTest@1a6ac39]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:principles.ocp.OcpViolationTest@1a6ac39]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:principles.ocp.OcpViolationTest@1a6ac39]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- principles.ocp.OcpViolationTest -->
+      <class name="principles.srp.violation.SrpViolatioTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:principles.srp.violation.SrpViolatioTest@988dd6]" name="setUpClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:principles.srp.violation.SrpViolatioTest@988dd6]" name="setUpMethod" is-config="true" duration-ms="2" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:principles.srp.violation.SrpViolatioTest@988dd6]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testSrpViolation()[pri:0, instance:principles.srp.violation.SrpViolatioTest@988dd6]" name="testSrpViolation" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSrpViolation -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:principles.srp.violation.SrpViolatioTest@988dd6]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- principles.srp.violation.SrpViolatioTest -->
+      <class name="principles.dip.DipCorrectionTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:principles.dip.DipCorrectionTest@1ffccd6]" name="setUpClass" is-config="true" duration-ms="24" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:principles.dip.DipCorrectionTest@1ffccd6]" name="setUpMethod" is-config="true" duration-ms="4" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testDipCorrection()[pri:0, instance:principles.dip.DipCorrectionTest@1ffccd6]" name="testDipCorrection" duration-ms="7" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDipCorrection -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:principles.dip.DipCorrectionTest@1ffccd6]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:principles.dip.DipCorrectionTest@1ffccd6]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- principles.dip.DipCorrectionTest -->
+      <class name="principles.plk.PlkViolationTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:principles.plk.PlkViolationTest@d593f7]" name="setUpClass" is-config="true" duration-ms="1" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:principles.plk.PlkViolationTest@d593f7]" name="setUpMethod" is-config="true" duration-ms="2" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testPlkViolation()[pri:0, instance:principles.plk.PlkViolationTest@d593f7]" name="testPlkViolation" duration-ms="4" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlkViolation -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:principles.plk.PlkViolationTest@d593f7]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:principles.plk.PlkViolationTest@d593f7]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2016-03-17T15:24:46Z" finished-at="2016-03-17T15:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- principles.plk.PlkViolationTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
